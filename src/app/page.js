@@ -63,7 +63,7 @@ export default function Home() {
         Challenge by
         <span className="mx-1">
           <a
-            href="https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ/"
+            href="https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa/"
             target="_blank"
           >
             Frontend Mentor
